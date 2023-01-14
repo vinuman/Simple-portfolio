@@ -1,0 +1,155 @@
+body{
+    background-color: #1E1E1E;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+
+.profile-pic{
+    width:222px;
+    height:222px;
+    border-radius:50%;
+}
+
+.side-nav{
+    height:95%;
+    width:333px;
+    position:fixed;
+    border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+   top:15px;
+    background-color: #262626;
+    
+    
+}
+
+img{
+   margin-left:53px;
+   margin-top:40px;
+}
+
+h2{
+    margin-left:111px;
+    color:#FFFFFF;
+}
+
+h4{
+    margin-left:130px;
+    color:#FFFFFF;
+    margin-top:-10px;
+    opacity: 0.5;
+}
+
+.btn{
+ margin-left:20px;
+ width:298px;
+ height:61px;
+ background-color: #111111;
+ color:#ffffff;
+ opacity:50%;
+ border-radius: 30px;
+ font-size:15px;
+}
+
+.btn2{
+    margin-top:10px;
+    margin-bottom:10px;
+
+}
+
+.description{
+    
+    
+    height:378px;
+    width: calc(100% - 343px);
+    margin-left: 393px;
+    margin-top:-30px;
+    background-color: #262626;
+    border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-left-radius: 50px;
+   
+    
+}
+
+.heroic-acts{
+    width:472px;
+    height:430px;
+    margin-left:30px;
+    margin-top:30px;
+    color:#FFFFFF;
+    opacity:50%;
+}
+
+.deathimage{
+   
+    width:472px;
+    height:280px;
+    position:absolute;
+    top: 20px; right: 10px;
+    border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-left-radius: 50px;
+
+}
+
+h3{
+    margin-left:30px;
+    margin-top:50px;
+    padding-top:40px;
+    color:#FFFFFF;
+}
+
+a{
+    color:#FFFFFF;
+    opacity: 50%;
+}
+
+.suit{
+    height:328px;
+    width: calc(100% - 343px);
+    margin-left: 393px;
+    margin-top:-30px;
+    background-color: #262626;
+    border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-left-radius: 50px;
+   
+}
+
+table{
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-collapse: separate;
+    border-radius: 10px;
+    border-spacing: 0;
+    width:90%;
+    height:230px;
+    margin-left:30px;
+    
+}
+
+th{
+    width:20%;
+    color:#ffffff;
+    opacity:50%;
+    border: 1px solid  rgba(255, 255, 255, 0.5);
+    text-align: left;
+}
+
+td{
+    width:10%;
+    color:#ffffff;
+    opacity:50%;
+    border: 1px solid  rgba(255, 255, 255, 0.5);
+    border-top: 0;
+    border-bottom: 0;
+    text-align: left;
+    margin-left:1px;
+}
+
+
+  
